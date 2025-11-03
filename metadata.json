@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Feedback de Alunos",
+  "description": "Uma aplicação web para coletar feedback de alunos, incluindo uma avaliação por estrelas e comentários. Utiliza a API Gemini para analisar o sentimento e resumir o texto do feedback.",
+  "requestFramePermissions": []
+}
